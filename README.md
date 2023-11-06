@@ -1,3 +1,3 @@
 # YelpCamp
 
-Projektas sukurtas mokantis iš Udemy kurso
+Projektas sukurtas mokantis iš Udemy Web Developer Bootcamp kurso
